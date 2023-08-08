@@ -16,6 +16,7 @@ In a fully automated parking lot with an elevator, an entrance fee proportional 
 
 </div>
 The coefficients specified in the table below are applied to the above-mentioned time-based fees according to vehicle classes:
+<div align="center">
 
 | Vehicle Class Code | Vehicle Class Name | Multiplier |
 |:------------------:|:------------------:|:----------:|
@@ -26,6 +27,7 @@ The coefficients specified in the table below are applied to the above-mentioned
 |          5         |        Truck       |      4     |
 |          6         |        Lorry       |      4     |
 
+</div>
 In addition, a 100% discount is applied if the driver of motorcycles and passenger cars is a veteran and a 50% discount is applied if the driver of motorcycles and passenger cars is disabled.
 <br>
 <br>
