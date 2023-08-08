@@ -3,7 +3,7 @@
 **System Explanation**
 
 In a fully automated parking lot with an elevator, an entrance fee proportional to the weight of the vehicles (2.5 TL for 1 ton) and the fees specified in the table below are charged according to the duration of their stay in the parking lot:
-<center>
+<div align="center">
 |              Time             |  Fee  |
 |:-----------------------------:|:-----:|
 |        Less than 1 Hour       |  3 TL |
@@ -12,7 +12,7 @@ In a fully automated parking lot with an elevator, an entrance fee proportional 
 |  5 Hours - Less than 10 Hours | 10 TL |
 | 10 Hours - Less than 24 Hours | 14 TL |
 |       For every 24 Hours      | 15 TL |
-</center>
+</div>
 The coefficients specified in the table below are applied to the above-mentioned time-based fees according to vehicle classes:
 
 | Vehicle Class Code | Vehicle Class Name | Multiplier |
