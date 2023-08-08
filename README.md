@@ -5,6 +5,7 @@
 In a fully automated parking lot with an elevator, an entrance fee proportional to the weight of the vehicles (2.5 TL for 1 ton) and the fees specified in the table below are charged according to the duration of their stay in the parking lot:
 <br>
 <div align="center">
+
   
 |              Time             |  Fee  |
 |:-----------------------------:|:-----:|
@@ -22,6 +23,7 @@ The coefficients specified in the table below are applied to the above-mentioned
 
 
 <div align="center">
+
 
 | Vehicle Class Code | Vehicle Class Name | Multiplier |
 |:------------------:|:------------------:|:----------:|
