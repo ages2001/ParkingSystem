@@ -3,9 +3,9 @@
 **System Explanation**
 
 In a fully automated parking lot with an elevator, an entrance fee proportional to the weight of the vehicles (2.5 TL for 1 ton) and the fees specified in the table below are charged according to the duration of their stay in the parking lot:
-<br>
-<div align="center">
 
+<div align="center">
+<br>
   
 |              Time             |  Fee  |
 |:-----------------------------:|:-----:|
@@ -17,13 +17,11 @@ In a fully automated parking lot with an elevator, an entrance fee proportional 
 |       For every 24 Hours      | 15 TL |
 
 </div>
-<br>
+
 The coefficients specified in the table below are applied to the above-mentioned time-based fees according to vehicle classes:
 
-
-
 <div align="center">
-
+<br>
 
 | Vehicle Class Code | Vehicle Class Name | Multiplier |
 |:------------------:|:------------------:|:----------:|
@@ -35,7 +33,7 @@ The coefficients specified in the table below are applied to the above-mentioned
 |          6         |        Lorry       |      4     |
 
 </div>
-<br>
+
 In addition, a 100% discount is applied if the driver of motorcycles and passenger cars is a veteran and a 50% discount is applied if the driver of motorcycles and passenger cars is disabled.
 <br>
 <br>
