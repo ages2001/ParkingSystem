@@ -40,4 +40,4 @@ In addition, a 100% discount is applied if the driver of motorcycles and passeng
 After entering the information, the program will display some statistical information on the screen. 
 <br>
 <br>
-**NOTE:** To run the program, you just need to download the zip file from Releases and run the exe file inside.
+**NOTE:** To run the program, you just need to download the zip file from Releases and run the exe file in Console.
