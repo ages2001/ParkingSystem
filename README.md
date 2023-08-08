@@ -15,7 +15,7 @@ In a fully automated parking lot with an elevator, an entrance fee proportional 
 |  5 Hours - Less than 10 Hours | 10 TL |
 | 10 Hours - Less than 24 Hours | 14 TL |
 |       For every 24 Hours      | 15 TL |
-
+<br>
 </div>
 
 The coefficients specified in the table below are applied to the above-mentioned time-based fees according to vehicle classes:
@@ -31,7 +31,7 @@ The coefficients specified in the table below are applied to the above-mentioned
 |          4         |         Bus        |      3     |
 |          5         |        Truck       |      4     |
 |          6         |        Lorry       |      4     |
-
+<br>
 </div>
 
 In addition, a 100% discount is applied if the driver of motorcycles and passenger cars is a veteran and a 50% discount is applied if the driver of motorcycles and passenger cars is disabled.
