@@ -1,7 +1,7 @@
 # ParkingSystem with C99
 
 **System Explanation**
-
+<center>
 In a fully automated parking lot with an elevator, an entrance fee proportional to the weight of the vehicles (2.5 TL for 1 ton) and the fees specified in the table below are charged according to the duration of their stay in the parking lot:
 
 |              Time             |  Fee  |
@@ -31,3 +31,4 @@ After entering the information, the program will display some statistical inform
 <br>
 <br>
 **NOTE:** To run the program, you just need to download the zip file from Releases and run the exe file inside.
+</center>
