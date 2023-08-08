@@ -14,7 +14,7 @@ In a fully automated parking lot with an elevator, an entrance fee proportional 
 |  3 Hours - Less than 5 Hours  |  7 TL |
 |  5 Hours - Less than 10 Hours | 10 TL |
 | 10 Hours - Less than 24 Hours | 14 TL |
-|       For every 24 Hours      | 15 TL |
+|       For Every 24 Hours      | 15 TL |
 <br>
 </div>
 
