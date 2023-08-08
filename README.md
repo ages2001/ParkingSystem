@@ -19,6 +19,7 @@ In a fully automated parking lot with an elevator, an entrance fee proportional 
 <br>
 The coefficients specified in the table below are applied to the above-mentioned time-based fees according to vehicle classes:
 <br>
+<br>
 <div align="center">
 
 | Vehicle Class Code | Vehicle Class Name | Multiplier |
